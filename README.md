@@ -1,9 +1,9 @@
-## ✋ Hi there,
+# 🙋‍♂️ Hi there,
 
 
 **💎 TOP-RATED PLUS on Upwork | 🔥 97% JOB SUCCESS SCORE | 🚀 6 YEARS OF PROFESSIONAL EXPERIENCE**
 
-I have over **6 years** of experience creating **Online User Guides, Manuals, Knowledge Bases, Technical Documentation, Software Specifications (SRS, BRD, FRD, PRD, and FSD), UML & BPMN diagrams, and API references**. My expertise spans multiple industries including SaaS, ERP, CRM, EdTech, E-commerce, FinTech, Logistics, Telecommunication, Automation, Marketing, CMS, AI, and TeleMedicine.
+I'm a Senior Technical Writer | Business Analyst with over **6 years** of experience creating **Online User Guides, Manuals, Knowledge Bases, Technical Documentation, Software Specifications (SRS, BRD, FRD, PRD, and FSD), UML & BPMN diagrams, and API references**. My expertise spans multiple industries including SaaS, ERP, CRM, EdTech, E-commerce, FinTech, Logistics, Telecommunication, Automation, Marketing, CMS, AI, and TeleMedicine.
 
 ## 💯 My Services:
 
@@ -23,7 +23,7 @@ I have over **6 years** of experience creating **Online User Guides, Manuals, Kn
 Miro, Notion, AppFlowy, Jira, Confluence, Figma, Google Workspace, Azure DevOps, Mintlify, Mkdocs, Nextra, ReDocly, Docusaurus, Stoplight, Readme, Swagger, SharePoint, Slack, Office 365, Monday, Visio, LucidChart, Draw, and ClickUp
 
 - [**My Website (⚡️)**](https://sonicar.tech)
-- [**Upwork Profile (Top-Rated PLUS (97% JSS))**](https://www.upwork.com/freelancers/sonicar)
+- [**Upwork (Top-Rated PLUS - 97% JSS)**](https://www.upwork.com/freelancers/sonicar)
 - [**LinkedIn (⚡️)**](https://www.linkedin.com/in/abdelrahman-ragab/)
 
 
