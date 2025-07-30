@@ -22,10 +22,13 @@ I'm a Senior Technical Writer | Business Analyst with over **6 years** of experi
 
 Miro, Notion, AppFlowy, Jira, Confluence, Figma, Google Workspace, Azure DevOps, Mintlify, Mkdocs, Nextra, ReDocly, Docusaurus, Stoplight, Readme, Swagger, SharePoint, Slack, Office 365, Monday, Visio, LucidChart, Draw, and ClickUp
 
+## Let's Connect
+
 - [**My Website (⚡️)**](https://sonicar.tech)
 - [**Upwork (Top-Rated PLUS - 97% JSS)**](https://www.upwork.com/freelancers/sonicar)
 - [**LinkedIn (⚡️)**](https://www.linkedin.com/in/abdelrahman-ragab/)
 
 
 Sincerely,
+
 Abdelrahman Ragab 💛
