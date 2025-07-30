@@ -1,57 +1,31 @@
-## Hi 👋
-
----------------
-
-I have over 5️⃣ years of experience in the software industry as a senior technical writer and business systems analyst.
-
-I have extensive experience in writing technical specifications, and guides for SaaS and IT products.
-
-My primary objective is to ensure high-quality output while working on projects, and I enjoy collaborating with teams that share similar values and goals.
-
-I am also eager to share my skills and experience to help others achieve their objectives.
+## ✋ Hi there,
 
 
-## 🔬 My experience
+**💎 TOP RATED PLUS on Upwork | 🔥 97% JOB SUCCESS SCORE | 🚀 6 YEARS OF PROFESSIONAL EXPERIENCE**
 
---------------------
-- Creating 📝 Use Case Specifications and 📜 User Stories.
-- 🔭 Scope of Work (SoW).
-- ⛳ Business Requirements Document (BRD).
-- 👨‍💻Software Requirements Specification (SRS).
-- 📱 Product Requirements Document (PRD) documents.
-- Writing 📚 User Guides and Manuals using #️⃣ markdown syntax.
-- Creating 🧩 API references and documentation.
-- Designing ⏳ business process flows, 👤 user flows, flowcharts, and 🗺️ user story mapping diagrams.
-- Designing 🖼️ wireframes and mockups with prototypes.
-- Collaborating with UI/UX teams to improve user experience.
-- Collaborating with development teams to explain and illustrate functional requirements and business rules.
-- Writing ⌛ test cases and reports.
+I have over 6 years of experience creating **online user guides, manuals, knowledge bases, technical documentation, software specifications (SRS, BRD, FRD, PRD, and FSD), UML & BPMN diagrams, and API references**. My expertise spans multiple industries including SaaS, ERP, CRM, EdTech, E-commerce, FinTech, Logistics, Telecommunication, Automation, Marketing, AI, and TeleMedicine domains.
 
-## 💼 My Portfolio
+## 💯 My Services:
+------------------
+1️⃣ Online User Guides | Manuals (.MD, .MDX, .HTML, .PDF, .DOCX)
+2️⃣ API Reference & Documentation (JSON, Swagger, YAML, MD, MDX, Stoplight, Mintlify, Readme, Redocly, and Swagger)
+3️⃣ Technical Specifications & Documentation (SRS, BRD, FRD, SOW, and PRD)
+4️⃣ Functional/Non-functional Requirements
+5️⃣ Technical & Business Case Studies
+6️⃣ System Requirements Specification
+7️⃣ Use Case Specifications & Diagrams
+8️⃣ User Stories & Acceptance Criteria
+9️⃣ UML & BPMN Diagrams (Use Case, Sequence, Entity Relationship Diagrams (ERD), Activity Diagrams, User Flow Diagrams, User Journey Mapping, User Story Mapping, Flowcharts, Mind Maps)
 
----
+## 💻 Tools & Software:
+-----------------------
 
-|Project|Link|
-|-------|----|
-|Jana SRS document|[JANA](https://sonicar.notion.site/JANA-Software-Requirements-Specification-44bd946eedd24387b15dc8ecb1180677?pvs=4)|
-|Grata System Specs|[Specs Link](https://drive.google.com/drive/folders/1R53vb_AiZubU3VP4brjFrF4L2gZ9AILB?usp=sharing), [App Store](https://play.google.com/store/apps/details?id=com.gratacda.smartentry)|
-|Wireframe Design|[Syahty app](https://drive.google.com/file/d/1t-rJGLeuIrLkd3LDwG0fiywD2jinvaEc/view?usp=sharing)|
-|Wanse App Test Cases|[Test Cases Sheet](https://docs.google.com/spreadsheets/d/11rgv8vyT5W32P6Bsu35amenK88WM0Nst6uRj7R9G4BI/edit?usp=sharing)|
-|User Story Sample|[Yallow Platform](https://drive.google.com/file/d/1bb6Q5TI5Vpgax-FqTWPVJ-YdpYYm0vgV/view?usp=sharing)|
-|Telemedicine App|[Link](https://drive.google.com/drive/folders/1BzO2E_34G9zSPscdyY0Oo1llb3Q2ppG_?usp=sharing)|
-|Dureforce Freelancer Marktplace|[Use Case Sample](https://drive.google.com/file/d/1VATAs3gq0Kvkh12JX8Gv7YtVyahQ2Ijy/view?usp=sharing)|
-|In.vester app Guide|[Link](https://abdoalpop.github.io/InVester-App-Guide/)|
-<!--
-**AbdoALPOP/AbdoALPOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Miro, Notion, AppFlowy, Jira, Confluence, Figma, Google Workspace, Azure DevOps, Mintlify, Mkdocs, Nextra, ReDocly, Docusaurus, Stoplight, Readme, Swagger, SharePoint, Slack, Office 365, Monday, Visio, LucidChart, Draw, and ClickUp
 
-Here are some ideas to get you started:
+- My Portfolio (⚡️): (sonicar.tech)[http://sonicar.tech]
+- Upwork Profile: (Sonicar)[https://www.upwork.com/freelancers/sonicar]
+- LinkedIn: (Abdelrahman Ragab)[https://www.linkedin.com/in/abdelrahman-ragab/]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sincerely,
+Abdelrahman Ragab 💛
